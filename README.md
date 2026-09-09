@@ -4,8 +4,7 @@ BusinessPulse is an end-to-end sales analytics project built to analyze e-commer
 
 The project demonstrates a complete analytics workflow from raw multi-table data to business insights through Python, PostgreSQL, SQL, and Power BI.
 
-<img width="1300" height="732" alt="dashboard_preview" src="https://github.com/user-attachments/assets/e3925ba7-fcc1-42e2-8539-fdbf84578fd3" />
-
+<img src="dashboard/dashboard_preview.png" alt="BusinessPulse Sales Performance Dashboard" width="900"/>
 
 ## Project Overview
 
